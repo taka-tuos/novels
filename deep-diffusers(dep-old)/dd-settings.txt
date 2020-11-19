@@ -55,6 +55,7 @@
 	- 男：Xperia A2 / Orange / docomo
 	- KRNH：Xperia Z3 / Silver Green / docomo
 
+
 - LieX
 	- そもそも出すか不明
 	- Accel製

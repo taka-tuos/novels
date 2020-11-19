@@ -1,0 +1,49 @@
+# 基本設定
+- 89(の、2章)をWPCCに持ってきて以前と切り離す
+	- 年齢的に無理があるのでカートからかな
+- 基本的に旧DD準拠
+	- なんやかんややりやすそう
+
+# 時代背景
+- 2015年
+	- Biotope vs Accelのゆるやかな対立
+		- DEEP後半で戦争とTAW入れていく
+
+# 登場人物
+## 主人公
+### 市川 りくと/くりお
+- 瀬山ペア
+	- 12歳前後(ｼｮﾀ)
+	- りくと：Xperia A2 / Orange / docomo
+	- くりお：Xperia Z3 / Silver Green / docomo
+
+## Accel研究員
+### 市川 健二 (いちかわ けんじ)
+- 25歳 電通大院生
+	- ヒューマンマシンインターフェースが専門
+	- Galaxy S5(SD Variant) / Shimmery WHITE / docomo
+	- ヒョロメガネ
+
+### 森 直之 (もり なおゆき)
+- 30歳 正規研究員
+	- 機械工学が専門
+	- AQUOS PHONE ZETA / Red / docomo
+	- ポッチャリ
+
+### 古田 一 (ふるた はじめ)
+- 28歳 正規研究員
+	- 経歴不明、DNA編集が得意
+	- Galaxy S6 edge / Black Sapphire / au
+	- 
+
+# eXtreme Kart Endulance
+## 概要
+- カート4耐
+- 最初に挑む
+
+## 車両規定
+- Biotope Racing製のシャーシ
+- ホンダ/スズキ/スバルが供給する市販ベース660ccエンジン
+	- ホンダ E07X
+	- スズキ K6X
+	- マツダ EN07X
